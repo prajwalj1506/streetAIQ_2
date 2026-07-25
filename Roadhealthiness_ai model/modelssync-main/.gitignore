@@ -1,0 +1,37 @@
+# Python / Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# IDE / OS
+.DS_Store
+.vscode/
+
+# Datasets & Temp
+Images/
+FYP-Garbage Detection-/
+detections/
+java_temp/
+runs/
+
+# Large Model Weights (Except for the ones we need!)
+robust_street_model.pth
+yolov8n.pt
+
+# React Native / Expo
+mobile_app/node_modules/
+mobile_app/.expo/
+mobile_app/android/.gradle/
+mobile_app/android/build/
+mobile_app/android/app/build/
+mobile_app/ios/Pods/
+mobile_app/ios/build/
+
+# Logs
+*.log
+
+# Extra Datasets & Folders
+yolo_dataset/
+Pothole_Image_Data/
+trash_detector_repo/
+street_cleanliness_model.pth
