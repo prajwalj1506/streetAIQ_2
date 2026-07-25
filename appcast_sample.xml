@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Street AIQ Appcast</title>
+        <description>Most recent updates to the Street AIQ apps.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.1</title>
+            <description>
+                <![CDATA[
+                    <ul>
+                        <li>Added new AI estimation features</li>
+                        <li>Fixed layout bugs</li>
+                    </ul>
+                ]]>
+            </description>
+            <!-- Change the sparkle:version to the new version code from your pubspec.yaml -->
+            <!-- Change the url to the direct download link for the new APK file -->
+            <enclosure url="https://your-server.com/downloads/street_aiq_app-release-1.0.1.apk"
+                       sparkle:version="1.0.1+2"
+                       sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
