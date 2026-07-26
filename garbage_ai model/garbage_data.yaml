@@ -1,0 +1,7 @@
+path: E:/AImodel/Garbage_Combined_Dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 3
+names: ['Garbage', 'Natural Waste', 'Not Garbage']

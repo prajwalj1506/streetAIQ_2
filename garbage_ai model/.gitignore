@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# PyTorch/YOLO training runs and checkpoints (ignoring all training logs/checkpoints)
+runs/
+
+# Output videos/images
+output/
+captured_images/
+pinggy_err.txt
+pinggy_out.txt
+
+# IDE settings
+.vscode/
+.idea/
+.agents/
+
+# Local datasets and output runs
+datasets/
+outputs/*
+!outputs/best_model.keras
+!outputs/road_cleanliness.tflite
+!outputs/labels.txt
+road_data_split/
+road_trash_project/
+
