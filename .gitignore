@@ -36,7 +36,6 @@ captured_images/
 dataset/
 aiq photos/
 cloudflared.exe
-garbage_ai_model.zip
 *.csv
 
 
