@@ -34,7 +34,12 @@ ENV/
 *.pth
 captured_images/
 dataset/
+aiq photos/
+cloudflared.exe
+garbage_ai_model.zip
+pinggy_*.txt
 *.csv
+
 
 # Flutter/Dart
 .dart_tool/

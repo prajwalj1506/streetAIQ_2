@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>street_aiq_tipper_app Appcast</title>
+        <description>Most recent updates to street_aiq_tipper_app</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.1</title>
+            <description>
+                <![CDATA[
+                    <ul>
+                        <li>the third version </li>
+                    </ul>
+                ]]>
+            </description>
+            <enclosure url="https://takemytrash.web.app/street_aiq_tipper_app_v1.0.1.apk" sparkle:version="1.0.1+3" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
