@@ -35,7 +35,6 @@ ENV/
 captured_images/
 dataset/
 aiq photos/
-cloudflared.exe
 *.csv
 
 
